@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s-kamble
-- 👀 I’m interested in Experimental High-Energy Physics
-- 🌱 I’m currently involved in B-Physics analysis in CMS expt.@LHC
+- 👋 Hi, I’m Samadhan
+- 👀 I’m interested in Experimental High-Energy Particle Physics
+- 🌱 I’m currently involved in a search for heavy resonance particle in CMS expt.@LHC
 - 💞️ Count me in for any collaboration!
 - 📫 You can reach out to me at - samadhan.kamble@cern.ch
 
